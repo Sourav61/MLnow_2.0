@@ -35,6 +35,7 @@ $ git push -u origin <branch-name>
 
 [@Sourav61:](https://github.com/Sourav61)
 [![LinkedIn][2.2]][2]
+[Mail](3)
 
 [2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
 
