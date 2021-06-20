@@ -14,7 +14,7 @@
 ### Setup & Installation
 
 ```
-$ git clone https://github.com/shivanishimpi/MLnow_2.0.git
+$ git clone https://github.com/Sourav61/MLnow_2.0.git
 $ cd MLnow_2.0
 ```
 
@@ -33,7 +33,7 @@ $ git push -u origin <branch-name>
 
 ### Reach out
 
-[@Sourav61:](https://github.com/Sourav)
+[@Sourav61:](https://github.com/Sourav61)
 [![LinkedIn][2.2]][2]
 
 [2.2]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
